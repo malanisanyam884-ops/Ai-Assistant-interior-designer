@@ -1,0 +1,27 @@
+# macOS system & metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+._*
+
+# local files — never commit
+session.txt
+track5.txt
+
+# secrets
+.env
+*.env
+*.env.local
+
+# deps / build
+node_modules/
+dist/
+build/
+.next/
+__pycache__/
+*.pyc
+.venv/
+
+# large local demo assets get committed selectively, not blindly
+demo/fallback.mp4
