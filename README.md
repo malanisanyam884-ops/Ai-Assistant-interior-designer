@@ -86,9 +86,4 @@ npm run dev                        # open the LAN URL on the phone, same hotspot
 python server/scripts/prerender.py server/static/<best_edit>.jpg
 ```
 
-<!-- TODO by 4:40: verify the exact install/run commands above against what actually shipped -->
 
-## Team
-
-- **Anupam Rawat** (Dev A) — Live session spine, persona, tools + brain feed (`web/`)
-- **Abhishek** (Dev B) — generation pipeline, rail, brief pack, demo assets (`server/`, `web/src/components/rail/`, `demo/`)
